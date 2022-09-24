@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.seamusmullan.arrowgolems;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
@@ -43,7 +43,7 @@ public class ArrowGolems
     // Creates a new BlockItem with the id "examplemod:example_block", combining the namespace and path
     public static final RegistryObject<Item> EXAMPLE_BLOCK_ITEM = ITEMS.register("example_block", () -> new BlockItem(EXAMPLE_BLOCK.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
 
-    public ExampleMod()
+    public ArrowGolems()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
