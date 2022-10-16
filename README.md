@@ -1,2 +1,4 @@
-# ArrowGolems
-A small mod that adds arrow golems inspired by this instagram reel: https://www.instagram.com/p/CisKp4kPnDg/
+# Carrot's Golems
+A small mod that adds golems that can mine, farm and fight for you!
+
+I'm also adding the Tuff Golem. RIP
